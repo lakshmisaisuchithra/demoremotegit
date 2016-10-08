@@ -1,5 +1,5 @@
 # include < stdio.h >
 int main() {
-   printf("%d",home);
+   printf("akhila");
    return 0;
 }
